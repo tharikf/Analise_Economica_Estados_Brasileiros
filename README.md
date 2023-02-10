@@ -7,7 +7,7 @@ Neste projeto realizamos uma análise econômica de cinco Estados Brasileiros pa
   * São Paulo
   * Rio de Janeiro
  
-É possível ver o Notebook em que foi realizado o projeto em https://github.com/tharikf/Analise_Economica_Estados_Brasileiros/blob/main/projeto_banco_central_estados.ipynb e é possível ver a apresentação em PowerPoint desse projeto em https://github.com/tharikf/Analise_Economica_Estados_Brasileiros/blob/main/analise_economica.pptx.
+É possível ver o Notebook em que foi realizado o projeto em https://nbviewer.org/github/tharikf/Analise_Economica_Estados_Brasileiros/blob/main/projeto_banco_central_estados.ipynb e é possível ver a apresentação em PowerPoint desse projeto em https://github.com/tharikf/Analise_Economica_Estados_Brasileiros/blob/main/analise_economica.pptx.
 
 A análise envolve quatro grandes áreas:
   * Setor Real - Os indicadores de atividade econômica e emprego são avaliados em cada um dos Estados analisados. É possível visualizar como esses indicadores se comportaram de 2015 em diante.
